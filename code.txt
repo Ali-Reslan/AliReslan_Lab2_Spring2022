@@ -1,0 +1,55 @@
+<html>
+<head>
+<title>
+Home Page of Max the Dog
+</title>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+<h1>Max the Dog</h1>
+
+
+<img src="smalldog.jpg" alt="Photo of my dog" width=15% align=right>
+<a href="download.jpg">
+<img src="download.jpg" alt="Photo of my dog" width=15% align=right>
+</a>
+<h2>Introduction</h2>
+<p>Max was born in 2018 in my village near my house. I decided to take care of him.</p>
+<h2>Profile</h2>
+<ol>
+
+<li><i><b>Color</b></i>: Black</li>
+<li><i><b>Hobbies</b></i>: Playing with a ball</li>
+<li><i><b>Favorite Food</b></i>: Meat</li>
+</ol>
+<h2>Links</h2>
+<ul>
+<li><a href= "http://www.localiban.org/kounine-757">My Village</a></li>
+<li><a href= "https://www.pinterest.com/pin/495677502709893823/">My Dog House</a></li>
+</ul>
+<h2>Stats</h2>
+<table>
+<tr>
+<th>Age</th>
+<th>Weight</th>
+<th>Height</th>
+</tr>
+<tr>
+<td>8 weeks</td><td>8kg</td><td>18cm</td>
+</tr>
+<tr>
+<td>10 weeks</td><td>10kg</td><td>25cm</td>
+</tr>
+<tr>
+<td>12 weeks</td><td>12kg</td><td>30cm</td>
+</tr>
+</table>
+
+
+<hr>Last updated on 16/2/2022 by Ali Reslan</hr>
+</body>
+</html>
